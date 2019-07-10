@@ -1,0 +1,14 @@
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp2.2\PortalRandkowy.API.deps.json
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp2.2\PortalRandkowy.API.runtimeconfig.json
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp2.2\PortalRandkowy.API.runtimeconfig.dev.json
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp2.2\PortalRandkowy.API.dll
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp2.2\PortalRandkowy.API.pdb
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.csprojAssemblyReference.cache
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.csproj.CoreCompileInputs.cache
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.RazorAssemblyInfo.cache
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.RazorAssemblyInfo.cs
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.AssemblyInfoInputs.cache
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.AssemblyInfo.cs
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.RazorTargetAssemblyInfo.cache
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.dll
+C:\programowanie\Core\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp2.2\PortalRandkowy.API.pdb
