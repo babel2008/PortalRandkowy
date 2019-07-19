@@ -31,8 +31,7 @@ namespace PortalRandkowy.API.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetValue(int id)
         {
-             var value = await _context.Values.FirstOrDefaultAsync(x => x.id == id);
-             return Ok();
+           return Ok();
         }
 
         // POST api/values
