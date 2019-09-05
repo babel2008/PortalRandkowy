@@ -6,9 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using PortalRandkowy.API.Data;
 using PortalRandkowy.API.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PortalRandkowy.API.Controllers
+
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
@@ -20,6 +23,7 @@ namespace PortalRandkowy.API.Controllers
             
         }
         // GET api/values
+        
         [HttpGet]
         public async Task<IActionResult> GetValues()
         {
@@ -28,6 +32,7 @@ namespace PortalRandkowy.API.Controllers
         }
 
         // GET api/values/5
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetValue(int id)
         {
